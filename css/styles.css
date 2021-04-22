@@ -1,0 +1,105 @@
+#title {
+    background-color: antiquewhite;
+    font-family: 'Antonio', sans-serif;
+    font-size: 1em;
+    
+}
+
+#features {
+    background-color: rgb(5, 5, 5);
+    color:white;
+    font-family: 'Antonio', sans-serif;
+    font-size: 1em;
+    
+}
+#testimonials {
+    background-color: rgb(250, 249, 250);
+    color:rgb(7, 7, 7);
+    font-family: 'Antonio', sans-serif;
+    font-size: 1em;
+    padding:2%;
+    
+}
+#pricing {
+    background-color: rgb(52, 56, 52);
+    color:rgb(201, 195, 195);
+    font-family: 'Antonio', sans-serif;
+    font-size: 1em;
+    padding:2%;
+    
+}
+#query {
+    background-color: rgb(240, 232, 190);
+    color:rgb(7, 7, 7);
+    font-family: 'Antonio', sans-serif;
+    font-size: 1em;
+    padding:2%;
+    text-align: center;
+    
+}
+#footer {
+    background-color: rgb(14, 13, 13);
+    color:rgb(196, 183, 183);
+    font-family: 'Antonio', sans-serif;
+    font-size: 1em;
+    padding:2%;
+    text-align: center;
+    
+}
+#features p {
+    color: #1bb992;
+}
+#testimonials h1 {
+    
+    color: #0a0a0a;
+    text-align:center;
+    font-weight: bold;
+}
+#testimonials img {
+    width:40%;
+    border-radius:100%;
+    
+}
+#title h1 {
+    padding:2%;
+    color:rgb(190, 22, 22);
+    text-align:center;
+    font-weight: bold;
+}
+
+#block1 {
+    background-color: rgb(19, 170, 230);
+    font-family: 'Antonio', sans-serif;
+    
+}
+.col-lg-6{
+    text-align: center;
+    padding:10%;
+}
+.col-lg-4{
+    text-align: center;
+    padding:10%;
+}
+.nav-item{
+    padding:0 18px;
+}
+.card{
+    padding:10%;
+    margin:2%;
+    color:black;
+}
+.col-sm-6 h1{
+    color: #f58d8d;
+    text-align:center;
+    font-weight: bold;
+    font-size:300%;
+}
+.text-price{
+    color: #f3e7e7;
+    text-align:center;
+    font-weight: bold;
+    font-size:200%;
+}
+.social{
+    padding:10px 20px;
+}
