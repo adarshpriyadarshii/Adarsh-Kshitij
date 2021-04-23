@@ -1,6 +1,6 @@
 #title {
     background-color: antiquewhite;
-    font-family: 'Antonio', sans-serif;
+    font-family: 'Source Code Pro', monospace;
     font-size: 1em;
     
 }
@@ -15,7 +15,7 @@
 #testimonials {
     background-color: rgb(250, 249, 250);
     color:rgb(7, 7, 7);
-    font-family: 'Antonio', sans-serif;
+    font-family: 'Architects Daughter', cursive;
     font-size: 1em;
     padding:2%;
     
@@ -31,7 +31,7 @@
 #query {
     background-color: rgb(240, 232, 190);
     color:rgb(7, 7, 7);
-    font-family: 'Antonio', sans-serif;
+    font-family: 'Source Code Pro', monospace;
     font-size: 1em;
     padding:2%;
     text-align: center;
@@ -40,7 +40,7 @@
 #footer {
     background-color: rgb(14, 13, 13);
     color:rgb(196, 183, 183);
-    font-family: 'Antonio', sans-serif;
+    font-family: 'Pacifico', cursive;
     font-size: 1em;
     padding:2%;
     text-align: center;
