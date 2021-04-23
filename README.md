@@ -1,6 +1,6 @@
 # Adarsh-Kshitij
 
-# This is a replica website of WordPress.
+This is a replica of Homepage of WordPress.
 
-# Skills used:
+Skills used:
 HTML,CSS,JS and Bootstrap
